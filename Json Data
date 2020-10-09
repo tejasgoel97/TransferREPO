@@ -1,0 +1,50 @@
+SubCategoryData: Array(38)
+0: SubCat_Modal {id: "SC_1", title: "Pulses", filterTag: "MC_1", imageUrl: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=s…s/category/cms_images/icon/1010_1601124303049.png"}
+1: SubCat_Modal {id: "SC_2", title: "Atta & Other Flours", filterTag: "MC_1", imageUrl: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=s…es/category/cms_images/icon/916_1564721269641.png"}
+2: SubCat_Modal {id: "SC_3", title: "Rice & Other Grains", filterTag: "MC_1", imageUrl: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=s…s/category/cms_images/icon/1161_1568894172971.png"}
+3: SubCat_Modal {id: "SC_4", title: "Dry Fruits & Nuts", filterTag: "MC_1", imageUrl: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=s…s/category/cms_images/icon/1160_1548918263481.png"}
+4: SubCat_Modal {id: "SC_5", title: "Edible Oils", filterTag: "MC_1", imageUrl: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=s…es/category/cms_images/icon/917_1564721300204.png"}
+5: SubCat_Modal {id: "SC_6", title: "Ghee & Vanaspati", filterTag: "MC_1", imageUrl: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=s…s/category/cms_images/icon/1158_1510814297833.png"}
+6: SubCat_Modal {id: "SC_7", title: "Spices", filterTag: "MC_1", imageUrl: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=s…es/category/cms_images/icon/929_1510813904193.png"}
+7: SubCat_Modal {id: "SC_8", title: "Salt & Sugar", filterTag: "MC_1", imageUrl: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=s…es/category/cms_images/icon/933_1548666543028.png"}
+8: SubCat_Modal {id: "SC_9", title: "Health And Wellness", filterTag: "MC_2", imageUrl: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=s…es/category/cms_images/icon/695_1584613868988.png"}
+9: SubCat_Modal {id: "SC_10", title: "Bath & Body", filterTag: "MC_2", imageUrl: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=s…es/category/cms_images/icon/979_1584613894735.png"}
+10: SubCat_Modal {id: "SC_11", title: "Hair Care", filterTag: "MC_2", imageUrl: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=s…es/category/cms_images/icon/691_1600846810523.png"}
+11: SubCat_Modal {id: "SC_12", title: "Skin Care", filterTag: "MC_2", imageUrl: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=s…es/category/cms_images/icon/690_1600846837818.png"}
+12: SubCat_Modal {id: "SC_13", title: "Oral Care", filterTag: "MC_2", imageUrl: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=s…es/category/cms_images/icon/722_1584613772518.png"}
+13: SubCat_Modal {id: "SC_14", title: "Fragrances", filterTag: "MC_2", imageUrl: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=s…s/category/cms_images/icon/1115_1584613790102.png"}
+14: SubCat_Modal {id: "SC_15", title: "Face Care", filterTag: "MC_2", imageUrl: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=s…s/category/cms_images/icon/1117_1584613882363.png"}
+15: SubCat_Modal {id: "SC_16", title: "Men's Grooming", filterTag: "MC_2", imageUrl: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=s…es/category/cms_images/icon/692_1600764339074.png"}
+16: SubCat_Modal {id: "SC_17", title: "Cosmetics", filterTag: "MC_2", imageUrl: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=s…es/category/cms_images/icon/693_1584613855900.png"}
+17: SubCat_Modal {id: "SC_18", title: "Disinfectants", filterTag: "MC_3", imageUrl: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=s…s/category/cms_images/icon/1784_1591948434310.png"}
+18: SubCat_Modal {id: "SC_19", title: "Laundry Detergents", filterTag: "MC_3", imageUrl: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=s…es/category/cms_images/icon/983_1592314521696.png"}
+19: SubCat_Modal {id: "SC_20", title: "Cleaners", filterTag: "MC_3", imageUrl: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=s…s/category/cms_images/icon/1084_1592310991648.png"}
+20: SubCat_Modal {id: "SC_21", title: "Dishwasher's", filterTag: "MC_3", imageUrl: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=s…es/category/cms_images/icon/986_1592310969464.png"}
+21: SubCat_Modal {id: "SC_22", title: "Repellents", filterTag: "MC_3", imageUrl: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=s…es/category/cms_images/icon/926_1564721741027.png"}
+22: SubCat_Modal {id: "SC_23", title: "Home & Car Fresheners", filterTag: "MC_3", imageUrl: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=s…es/category/cms_images/icon/926_1564721741027.png"}
+23: SubCat_Modal {id: "SC_24", title: "Chocolates", filterTag: "MC_4", imageUrl: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=s…es/category/cms_images/icon/944_1561088761336.png"}
+24: SubCat_Modal {id: "SC_25", title: "Biscuits & Cookies", filterTag: "MC_4", imageUrl: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=s…es/category/cms_images/icon/935_1564721011431.png"}
+25: SubCat_Modal {id: "SC_26", title: "Namkeen & Snacks", filterTag: "MC_4", imageUrl: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=s…es/category/cms_images/icon/942_1564721059168.png"}
+26: SubCat_Modal {id: "SC_27", title: "Chips & Crisps", filterTag: "MC_4", imageUrl: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=s…es/category/cms_images/icon/940_1564721041956.png"}
+27: SubCat_Modal {id: "SC_28", title: "Cold Drinks", filterTag: "MC_5", imageUrl: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=s…s/category/cms_images/icon/1102_1592313350946.png"}
+28: SubCat_Modal {id: "SC_29", title: "Juices & Drinks", filterTag: "MC_5", imageUrl: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=s…es/category/cms_images/icon/955_1592313389373.png"}
+29: SubCat_Modal {id: "SC_30", title: "Tea & Coffee", filterTag: "MC_5", imageUrl: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=s…es/category/cms_images/icon/957_1564720106690.png"}
+30: SubCat_Modal {id: "SC_31", title: "Health & Energy Drinks", filterTag: "MC_5", imageUrl: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=s…es/category/cms_images/icon/960_1592313456965.png"}
+31: SubCat_Modal {id: "SC_32", title: "Milk Drinks", filterTag: "MC_5", imageUrl: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=s…s/category/cms_images/icon/1184_1592313538949.png"}
+32: SubCat_Modal {id: "SC_33", title: "Noodles & Vermicelli", filterTag: "MC_6", imageUrl: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=s…s/category/cms_images/icon/1137_1564721815535.png"}
+33: SubCat_Modal {id: "SC_34", title: "Sauces & Ketchups", filterTag: "MC_6", imageUrl: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=s…s/category/cms_images/icon/1125_1564721834747.png"}
+34: SubCat_Modal {id: "SC_35", title: "Jams & Spreads", filterTag: "MC_6", imageUrl: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=s…es/category/cms_images/icon/974_1564721797800.png"}
+35: SubCat_Modal {id: "SC_36", title: "Pasta & Soups", filterTag: "MC_6", imageUrl: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=s…es/category/cms_images/icon/962_1510641028098.png"}
+36: SubCat_Modal {id: "SC_37", title: "Pickles & Chutneys", filterTag: "MC_6", imageUrl: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=s…s/category/cms_images/icon/1126_1510641181503.png"}
+37: SubCat_Modal {id: "SC_38", title: "Honey & Chyawanprash", filterTag: "MC_6", imageUrl: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=s…s/category/cms_images/icon/1127_1510641163369.png"}
+length: 38
+__proto__: Array(0)
+mainCategory: Array(7)
+0: Cat_Modal {id: "MC_1", title: "Grocery & Staples", description: "Pulses, Atta & Other Flours, Rice & Other Grains, …alt & Sugar, Organic Staples, Grocery Best Offers", imageUrl: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=s…ms_images/icon/icon_cat_16_v_3_500_1597977382.jpg"}
+1: Cat_Modal {id: "MC_2", title: "Personal Care", description: "New Launches, Health And Wellness, Bath & Body, Ha…Care, Feminine Hygiene, Men's Grooming, Cosmetics", imageUrl: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=s…s_images/icon/icon_cat_163_v_3_500_1597977440.jpg"}
+2: Cat_Modal {id: "MC_3", title: "Household Items", description: "Disinfectants, Buy 1 Get 1 Free, Household Best Of…r Fresheners, Shoe Care, Cleaning Tools & Brushes", imageUrl: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=s…ms_images/icon/icon_cat_18_v_3_500_1597977412.jpg"}
+3: Cat_Modal {id: "MC_4", title: "Biscuits, Snacks & Chocolates", description: "Chocolates, Biscuits & Cookies, Namkeen & Snacks, …eets, Biscuits & Chocolates Offers, Confectionery", imageUrl: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=s…ms_images/icon/icon_cat_13_v_3_500_1597977308.jpg"}
+4: Cat_Modal {id: "MC_5", title: "Beverages", description: "Best Offers, Cold Drinks, Juices & Drinks, Tea & C…Health & Energy Drinks, Water & Soda, Milk Drinks", imageUrl: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=s…ms_images/icon/icon_cat_12_v_3_500_1597977286.jpg"}
+5: Cat_Modal {id: "MC_6", title: "Noodles, Sauces & Instant Food", description: "Noodles & Sauces Best Offers, Noodles & Vermicelli…eys, Baking & Dessert Items, Honey & Chyawanprash", imageUrl: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=s…ms_images/icon/icon_cat_15_v_3_500_1597977356.jpg"}
+6: Cat_Modal {id: "MC_7", title: "Baby Care", description: "Baby Food, Diapers & Wipes, Baby Skin & Hair Care, Baby Accessories & More, Buy 1 Get 1 & More", imageUrl: "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=s…cms_images/icon/icon_cat_7_v_3_500_1597977262.jpg"}
+length: 7
