@@ -1,0 +1,161 @@
+class Node{
+    constructor(value){
+        this.value=value;
+        this.next=null;
+    }
+}
+class SinglyLiskedList{
+    constructor(){
+        this.head=null;
+        this.tail=null;
+        this.length=0
+    }
+    show(){
+        if(this.length===0) return null;
+        let curr = this.head
+// //         console.group('index')
+        while(curr?.value!== undefined){
+            
+            console.log(curr.value, "->");
+            curr= curr.next;
+        }
+//         console.groupEnd()
+    }
+    push(val){
+        let newnode = new Node(val);
+       if(this.head===null){
+           this.head= newnode;
+           this.tail=newnode;
+           this.length+=1
+           return ;
+        }
+//         let cl = this.head;
+//         while(cl.next){
+//             console.log(cl);
+//             cl=cl.next;
+//         }
+//         cl.next= new Node(val)
+            this.tail.next=newnode;
+            this.tail = newnode;
+            this.length+=1
+    }
+    pop(){
+        if(this.length==0 ) return undefined
+        if(this.length==1) {
+            let retVal= this.head.value
+            this.head=this.tail=null
+            this.length-=1
+
+            return retVal
+            }
+        let newTail= this.head;
+        let current = this.head;
+        while(current.next){
+            newTail=current;
+            current=current.next
+        }
+        console.log(newTail)
+        console.log(current)
+        this.tail=newTail;
+        this.tail.next=null
+        this.length-=1
+        return current.value
+    }
+    shift(){
+        if(this.length===0) return null
+        const shiftValue= this.head.value;
+        this.head=this.head.next;
+        this.length-=1
+        if(this.length===0) this.tail=null
+        return shiftValue
+    }
+    unshift(val){
+        const newnode = new Node(val);
+        if(this.length===0) this.tail = newnode;
+        newnode.next = this.head;
+        this.head = newnode;
+        this.length++;
+    }
+    get(index){
+        if(index>=this.length || index<0) return null
+        let current = this.head;
+        for(let i=0 ; i<index ;i++){
+                current=current.next
+        }
+        return current.value;
+    }
+    insert(index, val){
+        if(index<0||index>this.length) return false
+        this.length++;
+        if(index===0){
+            this.unshift(val)
+            return true
+        }
+        if(index===this.length){
+            this.push(val)
+            return true
+        }
+        let current=this.head;
+       for(let i=0; i<index-1; i++){
+           current=current.next;
+       }
+        const newnode = new Node(val);
+        newnode.next= current.next;
+        current.next= newnode;
+    }
+    remove(index){
+        if(index<0 || index>=this.length) return undefined
+        this.length--
+        if(index===0) return !!this.shift()
+        if(index===this.length-1) return!!pop()
+        let current = this.head;
+        for(let i=0 ; i<index-1 ; i++){
+               current=current.next;
+        }
+        current.next = current.next.next;
+    }
+    reverse(){
+//         let oldHead = this.head;
+//         this.head= this.tail;
+//         let current=oldHead
+//         let newList = this.tail
+//         let i=0;
+//         while(i<this.length){
+//             let newnode = new Node(current.value);
+//             i++;
+//             newList.next=newnode;
+//             current=current.next;
+//         }
+//         return null;
+           
+            let newHead = null
+            let current=this.head;
+            let i=0
+            while(i<this.length){
+                let newnode = new Node(current.value);
+                if(i===0){
+                    this.tail=newnode
+                }
+                newnode.next=newHead;
+                newHead=newnode;
+                current=current.next
+                i++;
+            }
+            this.head=newHead;
+            console.log(this.head);
+    }
+   
+   
+}
+var sll = new SinglyLiskedList();
+sll.push(0)
+sll.push(1)
+sll.push(2)
+sll.push(3)
+sll.push(4)
+sll.push(5)
+sll.push(6)
+sll.push(7)
+sll.push(8)
+sll.push(9)
+sll.show()
